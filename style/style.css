@@ -1,8 +1,21 @@
 .heading{
-	color: red;
+	text-transform: 100px;
+	}
+.heading{
 	text-align: center;
 }
-
 .paragraph{
-	color:rgba(10,20,4,2.3);
+	text-indent: 100px;
+}
+.heading{
+	text-transform: uppercase;
+}
+.paragraph{
+	text-transform: capitalize;
+}
+.paragraph{
+	line-height: 80px;
+}
+.paragraph{
+	letter-spacing: 40px;
 }
