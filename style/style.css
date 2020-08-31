@@ -1,11 +1,8 @@
-h1{
-	color: green;
-}
-
-.headingred{
+.heading{
 	color: red;
+	text-align: center;
 }
 
-#headindyellow{
-	color: pink;
+.paragraph{
+	color:rgba(10,20,4,2.3);
 }
