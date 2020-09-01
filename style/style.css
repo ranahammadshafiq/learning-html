@@ -1,15 +1,11 @@
-@font-face{
-	font-family: jpweb;
-	src: url("Roboto-Black.ttf");
-}
+.header{
+	background-color: #666;
+	color: #fff;
 
-.heading{
-	font-size: 100px;
-}
-.paragraph{
-	direction: ltr;
-}
-.paragraph{
-	font-family: jpweb;
+	height: 400px;
+	width: 900px;
+	margin: 50px;
+	text-align: center;
+
 }
 
