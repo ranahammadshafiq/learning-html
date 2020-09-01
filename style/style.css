@@ -2,13 +2,8 @@
 	height: 200px;
 	width: 200px;
 	background-color: red;
-	margin-bottom: 50px;
-	padding-top: 50px;
-	padding-left: 50px;
+	box-sizing: border-box;
+	padding: 20px;
+	border: 40px solid blue;
 
 }
-.box2{
-	height: 200px;
-	width: 200px;
-	background-color: blue;
-	margin: 40px 400px 400px 800px;
