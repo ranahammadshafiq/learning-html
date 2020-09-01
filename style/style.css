@@ -2,8 +2,8 @@
 	background-color: #666;
 	color: #fff;
 
-	height: 400px;
-	width: 900px;
+	max-height: 300px;
+	min-width: 700px;
 	margin: 50px;
 	text-align: center;
 
