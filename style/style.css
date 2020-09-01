@@ -1,23 +1,14 @@
-.header{
-	
-	height: 50px;
-	width: 1000px;
-	border-style: center;
-	
-	border: 8px solid red;
-	border-radius: 100%;
-    
-
+.box{
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	margin-bottom: 50px;
+	padding-top: 50px;
+	padding-left: 50px;
 
 }
-
-
-.container{
-	max-height: 300px;
-	width: 1500px;
-	text-align: center;
-
-	border: 4px solid blue;
-
-}
-
+.box2{
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+	margin: 40px 400px 400px 800px;
