@@ -1,21 +1,15 @@
+@font-face{
+	font-family: jpweb;
+	src: url("Roboto-Black.ttf");
+}
+
 .heading{
-	text-transform: 100px;
-	}
-.heading{
-	text-align: center;
+	font-size: 100px;
 }
 .paragraph{
-	text-indent: 100px;
-}
-.heading{
-	text-transform: uppercase;
+	direction: ltr;
 }
 .paragraph{
-	text-transform: capitalize;
+	font-family: jpweb;
 }
-.paragraph{
-	line-height: 80px;
-}
-.paragraph{
-	letter-spacing: 40px;
-}
+
