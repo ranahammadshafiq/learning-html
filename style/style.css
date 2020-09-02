@@ -1,12 +1,6 @@
-
-h1 ,span, u, p{
-      border: 1px solid red;
-      background-color: black;
-      color: #fff;
-}
-p{
-	display: inline;
-}
-u{
-	display: block;
+.box{
+	background-color: blue;
+	color: #fff;
+	height: 200px;
+	overflow: scroll;
 }
