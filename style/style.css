@@ -1,6 +1,9 @@
 .box{
-	background-color: blue;
-	color: #fff;
-	height: 200px;
-	overflow: scroll;
+	background: black;
+	color: yellow;
+	height: 250px;
+	width: 250px;
+	outline: 4px solid blue;
+	
+	
 }
