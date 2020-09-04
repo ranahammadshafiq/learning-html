@@ -3,16 +3,7 @@
 	padding: 0px;	
 }
 
-article{
-	width: 800px;
-	margin: 50px auto 50px auto;
-	border: 5px solid red;
-	padding: 20px;
-
-}
-.Hammad{
-	background-color: red;
-	position: relative;
-	right: 30px;
-	left: 30px;
+.box{
+	height: 100vh;
+	background: linear-gradient(to right bottom, blue, red);
 }
